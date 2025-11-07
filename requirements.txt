@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 streamlit
 ultralytics
 opencv-python-headless
 pandas
 numpy
 openpyxl
+=======
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+numpy
+openpyxl
+>>>>>>> f697b8d (Initial commit)
