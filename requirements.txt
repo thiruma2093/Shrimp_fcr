@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-streamlit
-ultralytics
-opencv-python-headless
-pandas
-numpy
-openpyxl
-=======
-streamlit
-ultralytics
-opencv-python-headless
-pandas
-numpy
-openpyxl
->>>>>>> f697b8d (Initial commit)
+streamlit==1.37.0
+opencv-python-headless==4.10.0.84
+pandas==2.2.2
+numpy==1.26.4
+ultralytics==8.1.34
+Pillow==10.3.0
+openpyxl==3.1.2
+torch==2.2.2
+torchvision==0.17.2
